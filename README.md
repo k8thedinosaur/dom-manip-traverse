@@ -1,4 +1,4 @@
-# [_{Name of project}_]()
+# _DOM Practice_
 
 #### _HTML/CSS/JS exercise for Epicodus, 3/24/20_
 
